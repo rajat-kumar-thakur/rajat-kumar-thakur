@@ -46,13 +46,4 @@ Hello! I’m Rajat Kumar Thakur — a curious explorer at the intersection of Ma
 ![](https://github-profile-trophy.vercel.app/?username=rajat-kumar-thakur&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
----
-
-## 🌐 Find Me Online
-
-- [LinkedIn](https://www.linkedin.com/in/rajat-kumar-thakur/)
-- [X (Twitter)](https://x.com/RajatKrThakur04)
-
----
-
 > I code to create, learn, and inspire—with every project, I aim to leave a mark of curiosity and quality in the world of tech.

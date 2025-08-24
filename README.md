@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hello! I’m Rajat Kumar Thakur — a curious explorer at the intersection of Machine Learning, Large Language Models, and Full Stack Development. As a student with a passion for building things that matter, I thrive on transforming ideas into impactful digital solutions.
+Hello! I’m Rajat Kumar Thakur, a curious explorer at the intersection of Machine Learning, Large Language Models, and Full Stack Development. As a student with a passion for building things that matter, I thrive on transforming ideas into impactful digital solutions.
 
 ---
 

@@ -1,49 +1,49 @@
-# Rajat Kumar Thakur
+# Hi there, I'm Rajat Kumar Thakur! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rajat-kumar-thakur/)
-[![X](https://img.shields.io/badge/X-1DA1F2?logo=x)](https://x.com/RajatKrThakur04)
-[![](https://visitcount.itsvg.in/api?id=rajat-kumar-thakur&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Machine Learning Enthusiast | LLM Researcher | Full Stack Developer
 
----
-
-## 🚀 About Me
-
-Hello! I’m Rajat Kumar Thakur, a curious explorer at the intersection of Machine Learning, Large Language Models, and Full Stack Development. As a student with a passion for building things that matter, I thrive on transforming ideas into impactful digital solutions.
+I am a curious explorer working at the intersection of **Machine Learning**, **Large Language Models**, and **Full Stack Development**. As a student passionate about building impactful digital solutions, I love transforming complex ideas into working products—whether it's optimizing LLMs for resource-constrained devices or building intuitive web apps.
 
 ---
 
-## 🧠 What I Do
+### 🛠️ Technologies & Tools
 
-### Machine Learning & Language Models
-- I dive deep into data and algorithms, crafting models that see, understand, and generate.
-- Experienced in fine-tuning LLMs for real-world applications and deploying ML solutions end-to-end.
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat&logo=assembly&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Full Stack Development
-- From sketching UI concepts to architecting robust backends, I love building products from the ground up.
-- Skilled in seamlessly weaving together frontend flair with backend strength.
-
----
-
-## 🌟 Featured Projects
-
-- 🧑‍🍳 [Restaurant Management System](https://github.com/rajat-kumar-thakur/Restaurant-Mangament-System)  
-  A digital chef’s best friend: manages orders, menus, and analytics with ease.
-
-- 🔍 [Edge and Corner Detection](https://github.com/rajat-kumar-thakur/Edge-and-Corner-Detection)  
-  Teaching machines to see patterns and shapes—pixel by pixel.
-
-- 📝 [GitHub Readme Generator](https://github.com/rajat-kumar-thakur/GithubReadmeGenerator)  
-  Instantly create professional, eye-catching README files for your projects.
+**Domains:** ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat&logo=openai&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Dev-4B0082?style=flat&logo=react&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rajat-kumar-thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajat-kumar-thakur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-kumar-thakur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔭 Featured Projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajat-kumar-thakur&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+Here are some of the cool things I've built:
+
+- 🗣️ **[Hindi AI Assistant](https://github.com/rajat-kumar-thakur/Hindi-AI-assistant)** An AI Voice agent that captures facial expressions using OpenCV and responds interactively in Hindi.
+
+- 📱 **[LLMs for Resource Constrained Devices](https://github.com/rajat-kumar-thakur/LLMs-for-Resource-Constrained-Devices)** Research work (SRIP 2025 Internship at IIT Gandhinagar) focused on optimizing Large Language Models for edge devices.
+
+- 🧠 **[LLM Semantic Query Engine](https://github.com/rajat-kumar-thakur/llm-semantic-query-engine)** A powerful system designed to provide intelligent, context-aware responses by leveraging LLMs for semantic querying.
+
+- 🍽️ **[Restaurant Management System](https://github.com/rajat-kumar-thakur/Restaurant-Mangament-System)** A management system built in Assembly language to handle orders and menus efficiently.
 
 
-> I code to create, learn, and inspire—with every project, I aim to leave a mark of curiosity and quality in the world of tech.
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-kumar-thakur/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rajatkumarthakur.vercel.app/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RajatKrThakur04)
+
+</div>
+
+<p align="center">
+  <i>"I code to create, learn, and inspire."</i>
+</p>
